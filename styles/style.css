@@ -200,4 +200,5 @@ form input:focus{
     form input, .right__forget, .right__loginBtn, .right__signupBtn{
         font-size: 12px;
     }
+    /* Responsividade */
 }
